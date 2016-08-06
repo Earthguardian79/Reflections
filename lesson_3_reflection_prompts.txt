@@ -18,6 +18,7 @@ If the developer is working on a team project and wants to add or change a featu
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
+In the case of being disconnected from an active network for reasons of going mobile. Furthermore, its always convenient to have an original backup of your project in case of merging mistake.
 
 
 How would you collaborate without using Git or GitHub?  What would be easier,
