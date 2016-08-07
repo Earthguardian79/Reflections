@@ -24,7 +24,7 @@ In the case of being disconnected from an active network for reasons of going mo
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+Either face to face or email, google docs. Github is definitely more complex but easier for collaboration on multiple projects. Email or some other form of communication would be extremely time consuming and difficult.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
