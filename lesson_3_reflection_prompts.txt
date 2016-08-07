@@ -29,4 +29,4 @@ Either face to face or email, google docs. Github is definitely more complex but
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+When these changes would need to be peer reviewed prior to merging to the master branch. By doing so you can avoid causing any drastic changes to the overall project which is could push everyone whose working on the project. On the hand by working on the master branch you could make changes, upgrades, bug fixes immediately rather than going through the tedious processes of ‘double checking’. Personally I prefer the double checking.
